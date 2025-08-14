@@ -1,0 +1,5 @@
+set_io CLK     35   # 12MHz时钟
+set_io RESETn  38   # 复位按钮
+set_io LED[0]  40   # LED0
+set_io LED[1]  41   # LED1
+set_io LED[2]  39   # LED2

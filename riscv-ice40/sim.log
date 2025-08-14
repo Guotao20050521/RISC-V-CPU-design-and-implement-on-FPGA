@@ -1,0 +1,3 @@
+VCD info: dumpfile top_tb.vcd opened for output.
+First instruction: 0x00000017
+top_tb.v:29: $finish called at 10190000 (1ps)
